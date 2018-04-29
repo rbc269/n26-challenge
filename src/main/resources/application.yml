@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Statistics
+statisticService.expireMS: 60000
+statisticService.removeMS: 10000
